@@ -3,9 +3,39 @@
 <topic id="topic_rxx_dkt_bdc">
     <title>Chapter 1</title>
     <body>
-        <section id="section_rmk_ykt_bdc">
+        <section id="section_irq_bdr_cdc">
             <title>Meet Charlie the Choo-Choo</title>
-            <p>words</p>
+            <fig id="fig_nyr_1cr_cdc">
+                <image href="images/intro1.jpg" id="image_eql_ccr_cdc"/>
+            </fig>
+            <p>Bob Brooks was an engineer for the Mid-World Railway Company, on a route from St.
+                Louis, Missouri to Topeka, Kansas. Engineer Bob was the best trainman the Mid-World
+                Railway Company ever had, and Charlie was the best train!</p>
+            <p audience="children">Charlie was a 402 Big Boy steam train, and Engineer Bob was the
+                only man who had ever been his engineer.</p>
+            <p audience="adults">Charlie was a 402 Big Boy steam locomotive, and Engineer Bob was
+                the only man who had ever been allowed to sit in his peek-seat and pull the whistle.
+                Anyone else who tried would get burned from the heat coming from the metal and the
+                whistle would not make a sound.</p>
+            <p>Everyone knew the WHOOO-OOOO of Charlie's whistle, and whenever they heard it echoing
+                across the flat Kansas countryside, they said, "There goes Charlie and Engineer Bob,
+                the fastest team between St. Louis and Topeka!" Boys and girls ran into their yards
+                to watch Charlie and Engineer Bob go by. Engineer Bob would smile and wave. The
+                children would smile and wave back. <xmlatt audience="adults">Charlie's smile would
+                    appear to grow a bit wider.</xmlatt></p>
+        </section>
+        <section id="section_qky_5dr_cdc">
+            <title>Bob's Discovery</title>
+            <fig id="fig_ic5_zdr_cdc">
+                <image href="images/intro2.jpg" id="image_b43_12r_cdc"/>
+            </fig>
+            <p>Children's Text</p>
+            <p>Adult's Text</p>
+            <fig id="fig_fmp_h2r_cdc">
+                <image href="images/intro3.jpg" id="image_ub5_32r_cdc"/>
+            </fig>
+            <p>Children's Text</p>
+            <p>Adult's Text</p>
         </section>
     </body>
 </topic>
