@@ -4,6 +4,7 @@
     <title>My Story</title>
     <topicref href="index.dita"/>
     <topicref href="chapter1.dita"/>
+    <topicref href="chapter2.dita"/>
     <topicref href="chapter3.dita"/>
     <topicref href="chapter4.dita"/>
     <topicref href="chapter5.dita"/>

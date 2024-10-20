@@ -3,7 +3,9 @@
 <topic id="topic_rxx_dkt_bdc">
     <title>Chapter 1</title>
     <body>
-        <section id="section_rmk_ykt_bdc"><title>Meet Charlie the Choo-Choo</title><image
-                href="images/intro1.jpg" id="image_bbv_j5p_cdc"/><p>words</p></section>
+        <section id="section_rmk_ykt_bdc">
+            <title>Meet Charlie the Choo-Choo</title>
+            <p>words</p>
+        </section>
     </body>
 </topic>
