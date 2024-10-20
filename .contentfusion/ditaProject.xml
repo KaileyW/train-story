@@ -3,4 +3,13 @@
     <context id="QRVknNHmCtyXfVg" name="imagetesting">
         <input href="../dita/document.ditamap"/>
     </context>
+    <publication id="webhelp" transtype="webhelp-responsive"/>
+    <deliverable id="d-imagetesting-1729447546975" name="imagetesting">
+        <context idref="QRVknNHmCtyXfVg"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp">
+            <param href="cf://templates/Aluminum" name="webhelp.publishing.template"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
+        </publication>
+    </deliverable>
 </project>
