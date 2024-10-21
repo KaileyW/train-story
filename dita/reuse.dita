@@ -3,8 +3,7 @@
 <topic id="topic_lj2_trr_cdc">
     <title>reuse</title>
     <body>
-        <p>WHOOO-OOOO!</p>
-        <p><i>Don't ask me silly questions, I won't play silly games.</i></p>
+        <p id="song1"><i>Don't ask me silly questions, I won't play silly games.</i></p>
         <p><i>I'm just a simple choo-choo train, and I'll always be the same.</i></p>
         <p><i>I only want to race along, beneath the bright blue sky.</i></p>
         <p><i>and be a happy choo-choo train, until the day I die.</i></p>

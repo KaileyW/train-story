@@ -1,8 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_rxx_dkt_bdc">
-    <title>chapter4</title>
+    <title>Chapter 4</title>
     <body>
-        <p></p>
+        <section id="section_th2_zps_cdc">
+            <title>Replaced</title>
+            <fig id="fig_akz_zps_cdc">
+                <image href="images/newtrain3.jpg" id="image_eqv_1qs_cdc"/>
+            </fig>
+            <p>"Nonsense!" Engineer Bob was mad! "Charlie is still full of zip and zowie! I will
+                telegraph the head office of the Mid-World Railway Company! I will telegraph the
+                president, Mr. Raymond Martin, myself! I know him because he once gave me a Good
+                Service Award, and afterwards Charlie and I took his little daughter for a ride. I
+                let her pull the lanyard, and Charlie whistled his loudest for her!"</p>
+            <p>"I am sorry, Bob," said Mr. Briggs. "It was Mr. Martin himself who ordered the new
+                diesel loco."</p>
+            <p>It was true. And so Charlie the Choo-Choo was shunted off to a siding in the farthest
+                corner of Mid-World's St. Louis yard<xmlatt audience="children">.</xmlatt><xmlatt
+                    audience="adults"> to rust in the weeds.</xmlatt></p>
+            <fig id="fig_ajj_vqs_cdc">
+                <image href="images/out-of-commission3.jpg" id="image_ofn_wqs_cdc"/>
+            </fig>
+            <p>Now the <i>HONNNK! HONNNK!</i> of the Burlington Zephyr was heard on the St. Louis to
+                Topeka route, and Charlie's whistle blew no more.</p>
+            <p>A family of mice nested in the seat where Engineer Bob once sat so proudly, watching
+                the countryside speed past; a family of swallows nested in his smokestack.</p>
+            <fig id="fig_myx_frs_cdc">
+                <image href="images/charlie-sad1.jpg" id="image_o14_grs_cdc"/>
+            </fig>
+            <p>Charlie was lonely and very sad. He missed the steel tracks and bright blue skies and
+                wide open spaces. Sometimes, late at night, he thought of these things and cried
+                dark, oily tears.</p>
+            <p audience="children">This rusted his fine Stratham headlight which was now always
+                dark.</p>
+            <p audience="adults">This rusted his fine Stratham headlight, but he didn't care,
+                because now the Stratham headlight was old, and it was always dark.</p>
+        </section>
     </body>
 </topic>

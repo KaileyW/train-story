@@ -1,8 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_rxx_dkt_bdc">
-    <title>chapter2</title>
+    <title>Chapter 2</title>
     <body>
-        <p></p>
+        <section id="section_r2p_3tr_cdc">
+            <title>Charlie's Song</title>
+            <fig id="fig_a1n_ltr_cdc">
+                <image href="images/best-friends1.jpg" id="image_zhz_ltr_cdc"/>
+            </fig>
+            <p>"I told you," said Charlie the Choo-Choo.</p>
+            <p>"How come I never knew you were alive before?" asked Engineer Bob. "Why didn't you
+                ever talk to me before?"</p>
+            <p>Then Charlie sang this song to Engineer Bob in his small, gruff voice:</p>
+            <p>INSERT SONG CONTENT REF</p>
+            <p audience="adults">"Say what now? What's this about gobbling children?" said Engineer
+                Bob.</p>
+            <p audience="adults">"Haven't you ever wondered how I'm the fastest locomotive between
+                St. Louis and Topeka?" Charlie replied in his small, gruff voice.</p>
+            <p audience="adults">"Hmm, well those naughty kids can sure be a pain," said Engineer
+                Bob. "Alright then! As long as its just the naughty ones!"</p>
+        </section>
+        <section id="section_erp_rwr_cdc">
+            <title>Best Friends</title>
+            <fig id="fig_un3_xwr_cdc">
+                <image href="images/best-friends2.jpg" id="image_tqv_xwr_cdc"/>
+            </fig>
+            <p>"Will you talk to me some more when we're making our run?" asked Engineer Bob. "I'd
+                like that."</p>
+            <p>"I would, too," said Charlie. "I love you, Engineer Bob."</p>
+            <p>"I love you too, Charlie," said Engineer Bob, and then blew the whistle himself, just
+                to show how happy he was. <i>WHOOO-OOOO!</i> It was the biggest and best Charlie had
+                ever whistled, and everyone who heard came out to see.</p>
+            <p audience="children">Engineer Bob and Charlie spent many happy days together and
+                talked about many things. Charlie was Engineer Bob's best friend.</p>
+            <p audience="adults">Engineer Bob and Charlie spent many happy days together and talked
+                about many things. Engineer Bob lived alone, and Charlie was the first real friend
+                he'd had since his wife died mysteriously, long ago, in New York.</p>
+        </section>
     </body>
 </topic>

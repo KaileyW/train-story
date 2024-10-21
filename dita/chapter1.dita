@@ -11,18 +11,18 @@
             <p>Bob Brooks was an engineer for the Mid-World Railway Company, on a route from St.
                 Louis, Missouri to Topeka, Kansas. Engineer Bob was the best trainman the Mid-World
                 Railway Company ever had, and Charlie was the best train!</p>
-            <p audience="children">Charlie was a 402 Big Boy steam train, and Engineer Bob was the
-                only man who had ever been his engineer.</p>
+            <p audience="children">Charlie was a 402 Big Boy steam locomotive, and Engineer Bob was
+                the only man who had ever been his engineer.</p>
             <p audience="adults">Charlie was a 402 Big Boy steam locomotive, and Engineer Bob was
                 the only man who had ever been allowed to sit in his peek-seat and pull the whistle.
                 Anyone else who tried would get burned from the heat coming from the metal and the
                 whistle would not make a sound.</p>
-            <p>Everyone knew the WHOOO-OOOO of Charlie's whistle, and whenever they heard it echoing
-                across the flat Kansas countryside, they said, "There goes Charlie and Engineer Bob,
-                the fastest team between St. Louis and Topeka!" Boys and girls ran into their yards
-                to watch Charlie and Engineer Bob go by. Engineer Bob would smile and wave. The
-                children would smile and wave back. <xmlatt audience="adults">Charlie's smile would
-                    appear to grow a bit wider.</xmlatt></p>
+            <p>Everyone knew the <i>WHOOO-OOOO!</i> of Charlie's whistle, and whenever they heard it
+                echoing across the flat Kansas countryside, they said, "There goes Charlie and
+                Engineer Bob, the fastest team between St. Louis and Topeka!" Boys and girls ran
+                into their yards to watch Charlie and Engineer Bob go by. Engineer Bob would smile
+                and wave. The children would smile and wave back. <xmlatt audience="adults"
+                    >Charlie's smile would appear to grow a bit wider.</xmlatt></p>
         </section>
         <section id="section_qky_5dr_cdc">
             <title>Bob's Discovery</title>
@@ -43,7 +43,7 @@
             <p>"Hardy har-har!" said Engineer Bob. "Trains can't talk! I may not know much, but I
                 know that! If you're Charlie, I suppose you can blow your own whistle!"</p>
             <p>"Of course," said the small, gruff voice, and just then the whistle made its big
-                noise, rolling out across the Missouri plains: WHOOO-OOOO!</p>
+                noise, rolling out across the Missouri plains: <i>WHOOO-OOOO!</i></p>
             <p>"Goodness!" said Engineer Bob. "It really is you!"</p>
         </section>
     </body>

@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_rxx_dkt_bdc">
-    <title>chapter3</title>
+    <title>Chapter 3</title>
     <body>
-        <p></p>
+        <section id="section_a32_qls_cdc">
+            <title>New Locomotive in Town</title>
+            <fig id="fig_yby_tls_cdc">
+                <image href="images/new-train1.jpg" id="image_ibt_5ls_cdc"/>
+            </fig>
+            <p>One day, when Engineer Bob returned to St. Louis, they found a new diesel locomotive
+                in Charlie's berth. And what a diesel locomotive it was! Five thousand horsepower!
+                Stainless steel <xmlatt audience="adults">couplers</xmlatt>
+                <xmlatt audience="children">connectors</xmlatt>! Traction motors from the Utica
+                Engine Works in Utica, New York! And sitting on top, behind the generator, were
+                three bright yellow radiator cooling fans.</p>
+            <p>"What is this?" Engineer Bob asked in a worried voice, but Charlie only sang his song
+                in his smallest, gruffest voice:</p>
+            <p>SONG CONTENT REF</p>
+        </section>
+        <section id="section_k4f_j4s_cdc">
+            <title>Some Bad News</title>
+            <fig id="fig_glh_44s_cdc">
+                <image href="images/new-train2.jpg" id="image_bpv_44s_cdc"/>
+            </fig>
+            <p>Mr. Briggs, the roundhouse manager, came over.</p>
+            <p audience="children">"That is a beautiful diesel locomotive," said Engineer Bob, "but
+                you will have to move it out of Charlie's berth, Mr. Briggs. That's where Charlie
+                goes."</p>
+            <p audience="adults">"That is a beautiful diesel locomotive," said Engineer Bob, "but
+                you will have to move it out of Charlie's berth, Mr. Briggs. Charlie needs a lube
+                job this very afternoon."</p>
+            <p audience="children">"Not anymore, Engineer Bob," said Mr. Briggs sadly. "This is his
+                replacement—a brand-new Burlington Zephyr diesel loco. Once, Charlie was the best
+                locomotive in the world, but now he is old and his boiler leaks. I am afraid the
+                time has come for Charlie to retire."</p>
+            <p audience="adults">"Charlie won't be needing any more lube jobs, Engineer Bob," said
+                Mr. Briggs sadly. "This is his replacement—a brand-new Burlington Zephyr diesel
+                loco. Once, Charlie was the best locomotive in the world, but now he is old and his
+                boiler leaks. I am afraid the time has come for Charlie to retire."</p>
+        </section>
     </body>
 </topic>

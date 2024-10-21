@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_rxx_dkt_bdc">
-    <title>chapter5</title>
+    <title>Chapter 5</title>
     <body>
-        <p></p>
+        <section id="section_bvn_bss_cdc">
+            <title>Dark Days</title>
+            <fig id="fig_inw_fss_cdc">
+                <image href="images/charlie-sad2.jpg" id="image_cfn_gss_cdc"/>
+            </fig>
+            <p/>
+        </section>
     </body>
 </topic>
