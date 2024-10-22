@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="topic_rxx_dkt_bdc">
+<topic id="chapter1">
     <title>Chapter 1</title>
+    <shortdesc>Engineer Bob and the steam train Charlie are the best team in the Mid-World Railway
+        Company. Charlie reveals he is alive.</shortdesc>
     <body>
         <section id="section_irq_bdr_cdc">
             <title>Meet Charlie the Choo-Choo</title>
             <fig id="fig_nyr_1cr_cdc">
-                <image href="images/intro1.jpg" id="image_eql_ccr_cdc"/>
+                <image href="images/intro1.jpg" id="image_eql_ccr_cdc"
+                    alt="picture of Charlie the train who has eyes and a mouth, with Engineer Bob in the drivers seat and kids smiling around them"
+                />
             </fig>
             <p>Bob Brooks was an engineer for the Mid-World Railway Company, on a route from St.
                 Louis, Missouri to Topeka, Kansas. Engineer Bob was the best trainman the Mid-World
                 Railway Company ever had, and Charlie was the best train!</p>
-            <p audience="children">Charlie was a 402 Big Boy steam locomotive, and Engineer Bob was
-                the only man who had ever been his engineer.</p>
+            <p audience="children">Charlie was a 402 Big Boy steam train, and Engineer Bob was the
+                only man who had ever been his engineer.</p>
             <p audience="adults">Charlie was a 402 Big Boy steam locomotive, and Engineer Bob was
                 the only man who had ever been allowed to sit in his peek-seat and pull the whistle.
                 Anyone else who tried would get burned from the heat coming from the metal and the
@@ -27,7 +31,8 @@
         <section id="section_qky_5dr_cdc">
             <title>Bob's Discovery</title>
             <fig id="fig_ic5_zdr_cdc">
-                <image href="images/intro2.jpg" id="image_b43_12r_cdc"/>
+                <image href="images/intro2.jpg" id="image_b43_12r_cdc"
+                    alt="Engineer Bob looking into the body of the train"/>
             </fig>
             <p>Engineer Bob had a special secret. He was the only one who knew. Charlie the
                 Choo-Choo was really,<i> really,</i> alive. One day while they were making the run
