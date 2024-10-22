@@ -32,14 +32,15 @@
             <title>Bob's Discovery</title>
             <fig id="fig_ic5_zdr_cdc">
                 <image href="images/intro2.jpg" id="image_b43_12r_cdc"
-                    alt="Engineer Bob looking into the body of the train"/>
+                    alt="picture of Engineer Bob looking into the body of the train"/>
             </fig>
             <p>Engineer Bob had a special secret. He was the only one who knew. Charlie the
                 Choo-Choo was really,<i> really,</i> alive. One day while they were making the run
                 between Topeka and St. Louis, Engineer Bob heard singing, very soft and low.</p>
             <p>"Who is in the cab with me?" Engineer Bob said sternly.</p>
             <fig id="fig_fmp_h2r_cdc">
-                <image href="images/intro3.jpg" id="image_ub5_32r_cdc"/>
+                <image href="images/intro3.jpg" id="image_ub5_32r_cdc"
+                    alt="picture of Charlie and Engineer Bob happily riding along the tracks"/>
             </fig>
             <p>"Don't worry," said a small, gruff voice. "It is only I."</p>
             <p>"Who's I?" Engineer Bob asked. He spoke in his biggest, sternest voice, because he
