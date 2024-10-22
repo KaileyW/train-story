@@ -10,10 +10,10 @@
             </fig>
             <p>One day, when Engineer Bob returned to St. Louis, they found a new diesel locomotive
                 in Charlie's berth. And what a diesel locomotive it was! Five thousand horsepower!
-                Stainless steel <xmlatt audience="adults">couplers</xmlatt>
-                <xmlatt audience="children">connectors</xmlatt>! Traction motors from the Utica
-                Engine Works in Utica, New York! And sitting on top, behind the generator, were
-                three bright yellow radiator cooling fans.</p>
+                Stainless steel <ph audience="children">connectors</ph>
+                <ph audience="adults">couplers</ph>! Traction motors from the Utica Engine Works in
+                Utica, New York! And sitting on top, behind the generator, were three bright yellow
+                radiator cooling fans.</p>
             <p>"What is this?" Engineer Bob asked in a worried voice, but Charlie only sang his song
                 in his smallest, gruffest voice:</p>
             <p>SONG CONTENT REF</p>

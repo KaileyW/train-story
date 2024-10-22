@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_aw3_bt2_bdc">
-    <title>Welcome to my Story</title>
+    <title>Charlie the Choo-Choo</title>
+    <shortdesc>Adapted by Kailey Watson.</shortdesc>
     <body>
-        <p></p>
+        <p>Charlie the Choo-Choo is a <ph audience="children">heartwarming</ph><ph audience="adults"
+                >chilling</ph> story for <ph audience="children">children</ph><ph audience="adults"
+                >adults</ph>!</p>
     </body>
 </topic>
