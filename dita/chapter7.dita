@@ -1,8 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_rxx_dkt_bdc">
-    <title>chapter7</title>
+    <title>Chapter 7</title>
     <body>
-        <p></p>
+        <section id="section_hrl_2vy_cdc">
+            <title>Charlie's Back</title>
+            <fig id="fig_ipq_35y_cdc">
+                <image href="images/pres-happy.jpg" id="image_oqg_j5y_cdc"/>
+            </fig>
+            <p>All over St. Louis the children heard that cry, and ran out into their yards to watch
+                the rusty old steam loco pass.</p>
+            <p>"Look!" they cried. "It's Charlie! Charlie the Choo-Choo is back! Hurrah!" They all
+                waved, and as Charlie steamed out of town, gathering speed, he blew his own whistle,
+                just as he had in the old days: <i>WHOOOO-OOOOOOO!</i></p>
+            <p><i>Clickety-clack</i> went Charlie's wheels! <i>Chuffa-chuffa</i> went the smoke from
+                Charlie's stack! <i>Brump-brump</i> went the conveyor as it fed coal into the
+                firebox! Talk about zip! Talk about zowie! Golly gee, gosh, and wowie! Charlie had
+                never gone so fast before! The countryside went whizzing by in a blur! They passed
+                the cars on Route 41 as if they were standing still!</p>
+        </section>
+        <section id="section_hwl_lvy_cdc">
+            <title>Top Speed</title>
+            <fig id="fig_yhb_mvy_cdc">
+                <image href="images/pres-happy2.jpg" id="image_xy4_mvy_cdc"/>
+            </fig>
+            <p>"Hoptedoodle!" cried Mr. Martin, waving his hat in the air. "This is some locomotive,
+                Bob! I don't know why we ever retired it! How do you keep the coal conveyor loaded
+                at this speed?"</p>
+            <p>Engineer Bob only smiled, because he knew Charlie was feeding himself. And, beneath
+                the <i>clickety-clack</i> and the <i>chuffa-chuffa</i> and the <i>brump-brump</i>,
+                he could hear Charlie singing his old song in his low, gruff voice:</p>
+            <p>CONREF TO SONG</p>
+        </section>
     </body>
 </topic>
