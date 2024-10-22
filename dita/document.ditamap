@@ -3,7 +3,6 @@
 <map>
     <title>My Story</title>
     <topicref href="index.dita"/>
-    <topicref href="reuse.dita"/>
     <topicref href="chapter1.dita"/>
     <topicref href="chapter2.dita"/>
     <topicref href="chapter3.dita"/>
