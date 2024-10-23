@@ -16,7 +16,11 @@
                 radiator cooling fans.</p>
             <p>"What is this?" Engineer Bob asked in a worried voice, but Charlie only sang his song
                 in his smallest, gruffest voice:</p>
-            <p>SONG CONTENT REF</p>
+            <p conref="reuse.dita#reuse/song1"/>
+            <p conref="reuse.dita#reuse/song2"/>
+            <p conref="reuse.dita#reuse/song3"/>
+            <p conref="reuse.dita#reuse/song4c"/>
+            <p conref="reuse.dita#reuse/song4a"/>
         </section>
         <section id="section_k4f_j4s_cdc">
             <title>Some Bad News</title>

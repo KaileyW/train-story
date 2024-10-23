@@ -30,7 +30,10 @@
                 nights Charlie would not talk at all.</p>
             <p>One night, a terrible idea came into Engineer Bob's head. "Charlie, are you dying?"
                 he asked. In his smallest, gruffest voice, Charlie replied:</p>
-            <p>CONTENT REF FOR SONG</p>
+            <p conref="reuse.dita#reuse/song1"/>
+            <p conref="reuse.dita#reuse/song2"/>
+            <p conref="reuse.dita#reuse/song3"/>
+            <p conref="reuse.dita#reuse/song4c"/>
             <p audience="adults"><i>I guess that I'll just sit right here, until I finally
                 die.</i></p>
         </section>

@@ -30,7 +30,11 @@
             <p>Engineer Bob only smiled, because he knew Charlie was feeding himself. And, beneath
                 the <i>clickety-clack</i> and the <i>chuffa-chuffa</i> and the <i>brump-brump</i>,
                 he could hear Charlie singing his old song in his low, gruff voice:</p>
-            <p>CONREF TO SONG</p>
+            <p conref="reuse.dita#reuse/song1"/>
+            <p conref="reuse.dita#reuse/song2"/>
+            <p conref="reuse.dita#reuse/song3"/>
+            <p conref="reuse.dita#reuse/song4c"/>
+            <p conref="reuse.dita#reuse/song4a"/>
         </section>
     </body>
 </topic>

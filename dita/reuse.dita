@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="topic_lj2_trr_cdc">
+<topic id="reuse">
     <title>reuse</title>
     <body>
         <p id="song1"><i>Don't ask me silly questions, I won't play silly games.</i></p>
-        <p><i>I'm just a simple choo-choo train, and I'll always be the same.</i></p>
-        <p><i>I only want to race along, beneath the bright blue sky.</i></p>
-        <p><i>and be a happy choo-choo train, until the day I die.</i></p>
-        <p><i>gobbling up naughty children, until the day I die.</i></p>
+        <p id="song2"><i>I'm just a simple choo-choo train, and I'll always be the same.</i></p>
+        <p id="song3"><i>I only want to race along, beneath the bright blue sky.</i></p>
+        <p id="song4c" audience="children"><i>and be a happy choo-choo train, until the day I
+                die.</i></p>
+        <p id="song4a" audience="adults"><i>gobbling up naughty children, until the day I
+            die.</i></p>
     </body>
 </topic>

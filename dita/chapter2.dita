@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="topic_rxx_dkt_bdc">
+<topic id="chapter2">
     <title>Chapter 2</title>
     <body>
         <section id="section_r2p_3tr_cdc">
@@ -12,7 +12,11 @@
             <p>"How come I never knew you were alive before?" asked Engineer Bob. "Why didn't you
                 ever talk to me before?"</p>
             <p>Then Charlie sang this song to Engineer Bob in his small, gruff voice:</p>
-            <p>INSERT SONG CONTENT REF</p>
+            <p conref="reuse.dita#reuse/song1"/>
+            <p conref="reuse.dita#reuse/song2"/>
+            <p conref="reuse.dita#reuse/song3"/>
+            <p conref="reuse.dita#reuse/song4c"/>
+            <p conref="reuse.dita#reuse/song4a"/>
             <p audience="adults">"Say what now? What's this about gobbling children?" Engineer Bob
                 asked worryingly.</p>
             <p audience="adults">"Haven't you ever wondered how I'm the fastest locomotive between
