@@ -6,7 +6,8 @@
         <section id="section_r2p_3tr_cdc">
             <title>Charlie's Song</title>
             <fig id="fig_a1n_ltr_cdc">
-                <image href="images/best-friends1.jpg" id="image_zhz_ltr_cdc"/>
+                <image href="images/best-friends1.jpg" id="image_zhz_ltr_cdc"
+                    alt="picture of Charlie singing a song to Engineer Bob"/>
             </fig>
             <p>"I told you," said Charlie the Choo-Choo.</p>
             <p>"How come I never knew you were alive before?" asked Engineer Bob. "Why didn't you
