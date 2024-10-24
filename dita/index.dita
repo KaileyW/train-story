@@ -6,6 +6,6 @@
     <body>
         <p>Charlie the Choo-Choo is a <ph audience="children">heartwarming</ph><ph audience="adults">chilling</ph> story for <ph audience="children">children</ph><ph audience="adults">adults</ph>!</p>
       <p audience="children">and life is good</p>
-      <p audience="adults">and life is bad</p>
+      <p audience="adults">and life is baddy</p>
     </body>
 </topic>
