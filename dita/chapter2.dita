@@ -28,7 +28,8 @@
         <section id="section_erp_rwr_cdc">
             <title>Best Friends</title>
             <fig id="fig_un3_xwr_cdc">
-                <image href="images/best-friends2.jpg" id="image_tqv_xwr_cdc"/>
+                <image href="images/best-friends2.jpg" id="image_tqv_xwr_cdc"
+                    alt="picture of Charlie riding across train tracks with Engineer Bob"/>
             </fig>
             <p>"Will you talk to me some more when we're making our run?" asked Engineer Bob. "I'd
                 like that."</p>
