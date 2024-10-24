@@ -11,4 +11,5 @@
     <topicref href="chapter6.dita"/>
     <topicref href="chapter7.dita"/>
     <topicref href="chapter8.dita"/>
+    <topicref href="reuse.dita" processing-role="resource-only"/>
 </map>
