@@ -4,8 +4,6 @@
     <title>Charlie the Choo-Choo</title>
     <shortdesc>Adapted by Kailey Watson.</shortdesc>
     <body>
-        <p>Charlie the Choo-Choo is a <ph audience="children">heartwarming</ph><ph audience="adults"
-                >chilling</ph> story for <ph audience="children">children</ph><ph audience="adults"
-                >adults</ph>!</p>
+        <p>Charlie the Choo-Choo is a <ph audience="children">heartwarming</ph><ph audience="adults">chilling</ph> story for <ph audience="children">children</ph><ph audience="adults">adults</ph>!</p>
     </body>
 </topic>
