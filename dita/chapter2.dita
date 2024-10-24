@@ -15,8 +15,8 @@
             <p conref="reuse.dita#reuse/song1"/>
             <p conref="reuse.dita#reuse/song2"/>
             <p conref="reuse.dita#reuse/song3"/>
-            <p conref="reuse.dita#reuse/song4c"/>
-            <p conref="reuse.dita#reuse/song4a"/>
+            <p conref="reuse.dita#reuse/song4c" audience="children"/>
+            <p conref="reuse.dita#reuse/song4a" audience="adults"/>
             <p audience="adults">"Say what now? What's this about gobbling children?" Engineer Bob
                 asked worryingly.</p>
             <p audience="adults">"Haven't you ever wondered how I'm the fastest locomotive between

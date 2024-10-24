@@ -33,7 +33,7 @@
             <p conref="reuse.dita#reuse/song1"/>
             <p conref="reuse.dita#reuse/song2"/>
             <p conref="reuse.dita#reuse/song3"/>
-            <p conref="reuse.dita#reuse/song4c"/>
+            <p conref="reuse.dita#reuse/song4c" audience="children"/>
             <p audience="adults"><i>I guess that I'll just sit right here, until I finally
                 die.</i></p>
         </section>
