@@ -9,12 +9,13 @@
                 <image href="images/new-train1.jpg" id="image_ibt_5ls_cdc"
                     alt="picture of a shiny, modern red train"/>
             </fig>
-            <p>One day, when Engineer Bob returned to St. Louis, they found a new diesel locomotive
-                in Charlie's berth. And what a diesel locomotive it was! Five thousand horsepower!
-                Stainless steel <ph audience="children">connectors</ph><ph audience="adults"
-                    >couplers</ph>! Traction motors from the Utica Engine Works in Utica, New York!
-                And sitting on top, behind the generator, were three bright yellow radiator cooling
-                fans.</p>
+            <p>One day, when Engineer Bob returned to St. Louis, they found a new diesel <ph
+                    audience="children">train</ph><ph audience="adults">locomotive</ph> in Charlie's
+                berth. And what a diesel <ph audience="children">train</ph><ph audience="adults"
+                    >locomotive</ph> it was! Five thousand horsepower! Stainless steel <ph
+                    audience="children">connectors!</ph><ph audience="adults">couplers!</ph>
+                Traction motors from the Utica Engine Works in Utica, New York! And sitting on top,
+                behind the generator, were three bright yellow radiator cooling fans.</p>
             <p>"What is this?" Engineer Bob asked in a worried voice, but Charlie only sang his song
                 in his smallest, gruffest voice:</p>
             <p conref="reuse.dita#reuse/song1"/>
