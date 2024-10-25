@@ -12,13 +12,15 @@
             </fig>
             <p>Mr. Martin, the president of the Mid-World Railway Company, wrote and offered to put
                 Engineer Bob in charge of the new Burlington Zephyr.</p>
-            <p>"It is a fine loco, Engineer Bob," said Mr. Martin, "chock-full of zip and zowie, and
-                you should be the one to pilot it! Of all the engineers who work for Mid-World, you
-                are the best. And my daughter Susannah has never forgotten that you let her pull old
-                Charlie's whistle."</p>
+            <p>"It is a fine <ph audience="children">train,</ph><ph audience="adults">loco,</ph>
+                Engineer Bob," said Mr. Martin, "chock-full of zip and zowie, and you should be the
+                one to pilot it! Of all the engineers who work for Mid-World, you are the best. And
+                my daughter Susannah has never forgotten that you let her pull old Charlie's
+                whistle."</p>
             <p>But Engineer Bob said that if he couldn't pilot Charlie, his days as a trainman were
-                done. "I wouldn't understand such a fine new diesel loco," said Engineer Bob, "and
-                it wouldn't understand me." He was given a job cleaning the engines in the St. Louis
+                done. "I wouldn't understand such a fine new diesel <ph audience="children"
+                    >train,"</ph><ph audience="adults">loco,"</ph> said Engineer Bob, "and it
+                wouldn't understand me." He was given a job cleaning the engines in the St. Louis
                 yards, and Engineer Bob became Wiper Bob.</p>
             <p>The other engineers who drove the fine new diesels would laugh at him. "Look at that
                 old fool!" they'd say. "He cannot understand that the world has moved on!"</p>
@@ -28,10 +30,11 @@
                 />
             </fig>
             <p>Sometimes, late at night, Engineer Bob would go to the far side of the rail yard,
-                where Charlie the Choo-Choo stood on the rusty rails of the lonely siding that had
-                become his home. Weeds had twined in his wheels; his headlight was rusty and dark.
-                Engineer Bob always talked to Charlie, but Charlie replied less and less. Many
-                nights Charlie would not talk at all.</p>
+                where Charlie the Choo-Choo stood on the rusty rails of the lonely <ph
+                    audience="children">track</ph><ph audience="adults">siding</ph> that had become
+                his home. Weeds had twined in his wheels; his headlight was rusty and dark. Engineer
+                Bob always talked to Charlie, but Charlie replied less and less. Many nights Charlie
+                would not talk at all.</p>
             <p>One night, a terrible idea came into Engineer Bob's head. "Charlie, are you dying?"
                 he asked. In his smallest, gruffest voice, Charlie replied:</p>
             <p conref="reuse.dita#reuse/song1"/>
@@ -40,6 +43,9 @@
             <p conref="reuse.dita#reuse/song4c" audience="children"/>
             <p audience="adults"><i>I guess that I'll just sit right here, until I finally
                 die.</i></p>
+            <p>"I'll make sure you can race along that bright blue sky again, Charlie," Engineer Bob
+                said. <ph audience="adults">"I'll do whatever it takes not going to let you die,
+                    ever"</ph></p>
         </section>
     </body>
 </topic>
