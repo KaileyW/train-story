@@ -6,7 +6,9 @@
         <section id="section_tpl_4cy_cdc">
             <title>The President has a Problem</title>
             <fig id="fig_r44_scy_cdc">
-                <image href="images/pres-distress1.jpg" id="image_udc_tcy_cdc"/>
+                <image href="images/pres-distress1.jpg" id="image_udc_tcy_cdc"
+                    alt="picture of Mr. Martin standing outside the new train whose engineer, Mr. Martin, looks out worryingly"
+                />
             </fig>
             <p>Mr. Martin, the president of the Mid-World Railway Company, came to St. Louis to
                 check on the operation. His plan was to ride the Burlington Zephyr to Topeka, where
@@ -17,7 +19,9 @@
         <section id="section_h1h_rdy_cdc">
             <title>The Proposition</title>
             <fig id="fig_yxj_cdy_cdc">
-                <image href="images/pres-in-direstress2.jpg" id="image_mn3_ddy_cdc"/>
+                <image href="images/pres-in-direstress2.jpg" id="image_mn3_ddy_cdc"
+                    alt="picture of Mr. Martin and Engineer Bob talking with Charlie in the background"
+                />
             </fig>
             <p>Someone tugged Mr. Martin's arm. It was Wiper Bob, only he no longer looked like an
                 engine wiper. He had taken off his oil-stained dungarees and put on a clean pair of
@@ -26,7 +30,8 @@
                 Topeka, Mr. Martin. Charlie will get you there in time for your daughter's piano
                 recital."</p>
             <fig id="fig_ezf_jty_cdc">
-                <image href="images/pres-in-distress3.jpg" id="image_s1n_kty_cdc"/>
+                <image href="images/pres-in-distress3.jpg" id="image_s1n_kty_cdc"
+                    alt="picture of Mr. Martin and Engineer Bob riding in Charlie down the tracks"/>
             </fig>
             <p>"That old steamer?" scoffed Mr. Briggs. "Charlie would still be fifty miles out of
                 Topeka at sundown!"</p>

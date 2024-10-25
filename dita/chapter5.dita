@@ -6,7 +6,9 @@
         <section id="section_bvn_bss_cdc">
             <title>Dark Days</title>
             <fig id="fig_inw_fss_cdc">
-                <image href="images/charlie-sad2.jpg" id="image_cfn_gss_cdc"/>
+                <image href="images/charlie-sad2.jpg" id="image_cfn_gss_cdc"
+                    alt="picture of Engineer Bob looking sad and holding a mop while an Engineer in a train points and laughs"
+                />
             </fig>
             <p>Mr. Martin, the president of the Mid-World Railway Company, wrote and offered to put
                 Engineer Bob in charge of the new Burlington Zephyr.</p>
@@ -21,7 +23,9 @@
             <p>The other engineers who drove the fine new diesels would laugh at him. "Look at that
                 old fool!" they'd say. "He cannot understand that the world has moved on!"</p>
             <fig id="fig_jf2_rvx_cdc">
-                <image href="images/charlie-sad3.jpg" id="image_sdd_svx_cdc"/>
+                <image href="images/charlie-sad3.jpg" id="image_sdd_svx_cdc"
+                    alt="picture of Engineer Bob sitting on top of Charlie at night, both with glum expressions"
+                />
             </fig>
             <p>Sometimes, late at night, Engineer Bob would go to the far side of the rail yard,
                 where Charlie the Choo-Choo stood on the rusty rails of the lonely siding that had

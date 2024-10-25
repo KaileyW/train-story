@@ -6,7 +6,9 @@
         <section id="section_hrl_2vy_cdc">
             <title>Charlie's Back</title>
             <fig id="fig_ipq_35y_cdc">
-                <image href="images/pres-happy.jpg" id="image_oqg_j5y_cdc"/>
+                <image href="images/pres-happy.jpg" id="image_oqg_j5y_cdc"
+                    alt="picture of Charlie speeding down the tracks with children jumping and smiling next to him"
+                />
             </fig>
             <p>All over St. Louis the children heard that cry, and ran out into their yards to watch
                 the rusty old steam loco pass.</p>
@@ -22,7 +24,8 @@
         <section id="section_hwl_lvy_cdc">
             <title>Top Speed</title>
             <fig id="fig_yhb_mvy_cdc">
-                <image href="images/pres-happy2.jpg" id="image_xy4_mvy_cdc"/>
+                <image href="images/pres-happy2.jpg" id="image_xy4_mvy_cdc"
+                    alt="picture of Charlie, Engineer Bob, and Mr. Martin smiling as they ride"/>
             </fig>
             <p>"Hoptedoodle!" cried Mr. Martin, waving his hat in the air. "This is some locomotive,
                 Bob! I don't know why we ever retired it! How do you keep the coal conveyor loaded

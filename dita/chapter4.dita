@@ -6,7 +6,9 @@
         <section id="section_th2_zps_cdc">
             <title>Replaced</title>
             <fig id="fig_akz_zps_cdc">
-                <image href="images/newtrain3.jpg" id="image_eqv_1qs_cdc"/>
+                <image href="images/newtrain3.jpg" id="image_eqv_1qs_cdc"
+                    alt="picture Engineer Bob and Mr. Briggs arguing with Charlie and the new train in the background"
+                />
             </fig>
             <p>"Nonsense!" Engineer Bob was mad! "Charlie is still full of zip and zowie! I will
                 telegraph the head office of the Mid-World Railway Company! I will telegraph the
@@ -19,14 +21,17 @@
                 corner of Mid-World's St. Louis yard<ph audience="adults"> to rust in the
                 weeds</ph>.</p>
             <fig id="fig_ajj_vqs_cdc">
-                <image href="images/out-of-commission3.jpg" id="image_ofn_wqs_cdc"/>
+                <image href="images/out-of-commission3.jpg" id="image_ofn_wqs_cdc"
+                    alt="picture of a nest of birds in Charlie's smokestack and mice in Charlie's seat"
+                />
             </fig>
             <p>Now the <i>HONNNK! HONNNK!</i> of the Burlington Zephyr was heard on the St. Louis to
                 Topeka route, and Charlie's whistle blew no more.</p>
             <p>A family of mice nested in the seat where Engineer Bob once sat so proudly, watching
                 the countryside speed past; a family of swallows nested in his smokestack.</p>
             <fig id="fig_myx_frs_cdc">
-                <image href="images/charlie-sad1.jpg" id="image_o14_grs_cdc"/>
+                <image href="images/charlie-sad1.jpg" id="image_o14_grs_cdc"
+                    alt="picture of Charlie with a sad expression and tears of oil on his face"/>
             </fig>
             <p>Charlie was lonely and very sad. He missed the steel tracks and bright blue skies and
                 wide open spaces. Sometimes, late at night, he thought of these things and cried
