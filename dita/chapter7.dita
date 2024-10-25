@@ -11,7 +11,8 @@
                 />
             </fig>
             <p>All over St. Louis the children heard that cry, and ran out into their yards to watch
-                the rusty old steam loco pass.</p>
+                the rusty old steam <ph audience="children">train</ph><ph audience="adults"
+                    >loco</ph> pass.</p>
             <p>"Look!" they cried. "It's Charlie! Charlie the Choo-Choo is back! Hurrah!" They all
                 waved, and as Charlie steamed out of town, gathering speed, he blew his own whistle,
                 just as he had in the old days: <i>WHOOOO-OOOOOOO!</i></p>
@@ -27,12 +28,15 @@
                 <image href="images/pres-happy2.jpg" id="image_xy4_mvy_cdc"
                     alt="picture of Charlie, Engineer Bob, and Mr. Martin smiling as they ride"/>
             </fig>
-            <p>"Hoptedoodle!" cried Mr. Martin, waving his hat in the air. "This is some locomotive,
-                Bob! I don't know why we ever retired it! How do you keep the coal conveyor loaded
-                at this speed?"</p>
-            <p>Engineer Bob only smiled, because he knew Charlie was feeding himself. And, beneath
-                the <i>clickety-clack</i> and the <i>chuffa-chuffa</i> and the <i>brump-brump</i>,
-                he could hear Charlie singing his old song in his low, gruff voice:</p>
+            <p>"Hoptedoodle!" cried Mr. Martin, waving his hat in the air. "This is some <ph
+                    audience="children">train,</ph><ph audience="adults">locomotive,</ph> Bob! I
+                don't know why we ever retired it! How do you keep the coal conveyor loaded at this
+                speed?"</p>
+            <p>Engineer Bob only smiled, because he knew <ph audience="children">Charlie was feeding
+                    himself.</ph><ph audience="adults">how Charlie could go so fast.</ph> And,
+                beneath the <i>clickety-clack</i> and the <i>chuffa-chuffa</i> and the
+                    <i>brump-brump</i>, he could hear Charlie singing his old song in his low, gruff
+                voice:</p>
             <p conref="reuse.dita#reuse/song1"/>
             <p conref="reuse.dita#reuse/song2"/>
             <p conref="reuse.dita#reuse/song3"/>
