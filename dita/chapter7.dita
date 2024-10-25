@@ -40,8 +40,8 @@
             <p conref="reuse.dita#reuse/song1"/>
             <p conref="reuse.dita#reuse/song2"/>
             <p conref="reuse.dita#reuse/song3"/>
-            <p conref="reuse.dita#reuse/song4c"/>
-            <p conref="reuse.dita#reuse/song4a"/>
+            <p conref="reuse.dita#reuse/song4c" audience="children"/>
+            <p conref="reuse.dita#reuse/song4a" audience="adults"/>
         </section>
     </body>
 </topic>
