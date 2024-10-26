@@ -9,7 +9,7 @@
             <fig id="fig_qqx_vwy_cdc">
                 <image href="images/pres-happy3.jpg" id="image_eym_wwy_cdc"
                     alt="picture of Charlie with Engineer Bob, Mr. Martin and his daughter inside smiling as they go across the train tracks"
-                />
+                    width="400"/>
             </fig>
             <p>Charlie got Mr. Martin to his daughter's piano recital on time (of course), and
                 Susannah was just tickled pink to see her old friend Charlie again (of course), and
@@ -19,7 +19,7 @@
             <fig id="fig_vpt_jxy_cdc">
                 <image href="images/ending.jpg" id="image_dtf_kxy_cdc"
                     alt="picture of Charlie with train cars attached carrying children around a park"
-                />
+                    width="400"/>
             </fig>
             <p>Mr. Martin got Charlie and Engineer Bob a <ph audience="children">new job</ph><ph
                     audience="adults">gig</ph> pulling kids around the brand-new Mid-World Amusement

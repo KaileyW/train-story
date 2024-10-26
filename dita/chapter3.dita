@@ -9,7 +9,7 @@
             <title>New Train in Town</title>
             <fig id="fig_yby_tls_cdc">
                 <image href="images/new-train1.jpg" id="image_ibt_5ls_cdc"
-                    alt="picture of a shiny, modern red train"/>
+                    alt="picture of a shiny, modern red train" width="400"/>
             </fig>
             <p>One day, when Engineer Bob returned to St. Louis, they found a new diesel <ph
                     audience="children">train</ph><ph audience="adults">locomotive</ph> in Charlie's
@@ -30,7 +30,8 @@
             <title>Some Bad News</title>
             <fig id="fig_glh_44s_cdc">
                 <image href="images/new-train2.jpg" id="image_bpv_44s_cdc"
-                    alt="picture of the new train in a berth behind Engineer Bob and Mr. Briggs"/>
+                    alt="picture of the new train in a berth behind Engineer Bob and Mr. Briggs"
+                    width="400"/>
             </fig>
             <p>Mr. Briggs, the roundhouse manager, came over.</p>
             <p audience="children">"That is a beautiful diesel train," said Engineer Bob, "but you

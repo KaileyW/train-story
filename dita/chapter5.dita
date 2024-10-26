@@ -10,7 +10,7 @@
             <fig id="fig_inw_fss_cdc">
                 <image href="images/charlie-sad2.jpg" id="image_cfn_gss_cdc"
                     alt="picture of Engineer Bob looking sad and holding a mop while an Engineer in a train points and laughs"
-                />
+                    width="400"/>
             </fig>
             <p>Mr. Martin, the president of the Mid-World Railway Company, wrote and offered to put
                 Engineer Bob in charge of the new Burlington Zephyr.</p>
@@ -29,7 +29,7 @@
             <fig id="fig_jf2_rvx_cdc">
                 <image href="images/charlie-sad3.jpg" id="image_sdd_svx_cdc"
                     alt="picture of Engineer Bob sitting on top of Charlie at night, both with glum expressions"
-                />
+                    width="400"/>
             </fig>
             <p>Sometimes, late at night, Engineer Bob would go to the far side of the rail yard,
                 where Charlie the Choo-Choo stood on the rusty rails of the lonely <ph
