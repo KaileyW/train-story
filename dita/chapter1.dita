@@ -11,7 +11,7 @@
             <fig id="fig_nyr_1cr_cdc">
                 <image href="images/intro1.jpg" id="image_eql_ccr_cdc"
                     alt="picture of Charlie the train who has eyes and a mouth, with Engineer Bob in the drivers seat and kids smiling around them"
-                />
+                    width="450"/>
             </fig>
             <p>Bob Brooks was an engineer for the Mid-World Railway Company, on a route from St.
                 Louis, Missouri to Topeka, Kansas. Engineer Bob was the best trainman the Mid-World
@@ -32,7 +32,7 @@
         <section id="section_qky_5dr_cdc">
             <title>Bob's Discovery</title>
             <fig id="fig_ic5_zdr_cdc">
-                <image href="images/intro2.jpg" width="400" id="image_b43_12r_cdc"
+                <image href="images/intro2.jpg" width="450" id="image_b43_12r_cdc"
                     alt="picture of Engineer Bob looking into the body of the train"/>
             </fig>
             <p>Engineer Bob had a special secret. He was the only one who knew. Charlie the
@@ -41,7 +41,8 @@
             <p>"Who is in the cab with me?" Engineer Bob said sternly.</p>
             <fig id="fig_fmp_h2r_cdc">
                 <image href="images/intro3.jpg" id="image_ub5_32r_cdc"
-                    alt="picture of Charlie and Engineer Bob happily riding along the tracks"/>
+                    alt="picture of Charlie and Engineer Bob happily riding along the tracks"
+                    width="450"/>
             </fig>
             <p>"Don't worry," said a small, gruff voice. "It is only I."</p>
             <p>"Who's I?" Engineer Bob asked. He spoke in his biggest, sternest voice, because he
