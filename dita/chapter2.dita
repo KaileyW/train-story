@@ -9,7 +9,7 @@
             <title>Charlie's Song</title>
             <fig id="fig_a1n_ltr_cdc">
                 <image href="images/best-friends1.jpg" id="image_zhz_ltr_cdc"
-                    alt="picture of Charlie singing a song to Engineer Bob"/>
+                    alt="picture of Charlie singing a song to Engineer Bob" width="400"/>
             </fig>
             <p>"I told you," said Charlie the Choo-Choo.</p>
             <p>"How come I never knew you were alive before?" asked Engineer Bob. "Why didn't you
@@ -31,7 +31,8 @@
             <title>Best Friends</title>
             <fig id="fig_un3_xwr_cdc">
                 <image href="images/best-friends2.jpg" id="image_tqv_xwr_cdc"
-                    alt="picture of Charlie riding across train tracks with Engineer Bob"/>
+                    alt="picture of Charlie riding across train tracks with Engineer Bob"
+                    width="400"/>
             </fig>
             <p>"Will you talk to me some more when we're making our run?" asked Engineer Bob. "I'd
                 like that."</p>
