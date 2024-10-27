@@ -9,6 +9,7 @@
         <section id="section_irq_bdr_cdc">
             <title>Meet Charlie the Choo-Choo</title>
             <fig id="fig_nyr_1cr_cdc">
+                <title>Charlie and Engineer Bob greet the passing children</title>
                 <image href="images/intro1.jpg" id="image_eql_ccr_cdc"
                     alt="picture of Charlie the train who has eyes and a mouth, with Engineer Bob in the drivers seat and kids smiling around them"
                     width="400"/>
@@ -32,6 +33,7 @@
         <section id="section_qky_5dr_cdc">
             <title>Bob's Discovery</title>
             <fig id="fig_ic5_zdr_cdc">
+                <title>Engineer Bob searches inside the cab</title>
                 <image href="images/intro2.jpg" width="400" id="image_b43_12r_cdc"
                     alt="picture of Engineer Bob looking into the body of the train"/>
             </fig>
@@ -40,6 +42,7 @@
                 between Topeka and St. Louis, Engineer Bob heard singing, very soft and low.</p>
             <p>"Who is in the cab with me?" Engineer Bob said sternly.</p>
             <fig id="fig_fmp_h2r_cdc">
+                <title>Charlie and Engineer Bob talk while on their run</title>
                 <image href="images/intro3.jpg" id="image_ub5_32r_cdc"
                     alt="picture of Charlie and Engineer Bob happily riding along the tracks"
                     width="400"/>
