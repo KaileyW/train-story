@@ -8,6 +8,7 @@
         <section id="section_r2p_3tr_cdc">
             <title>Charlie's Song</title>
             <fig id="fig_a1n_ltr_cdc">
+                <title>Charlie sings to Engineer Bob</title>
                 <image href="images/best-friends1.jpg" id="image_zhz_ltr_cdc"
                     alt="picture of Charlie singing a song to Engineer Bob" width="400"/>
             </fig>
@@ -30,6 +31,7 @@
         <section id="section_erp_rwr_cdc">
             <title>Best Friends</title>
             <fig id="fig_un3_xwr_cdc">
+                <title>Charlie and Engineer Bob talk while on their run</title>
                 <image href="images/best-friends2.jpg" id="image_tqv_xwr_cdc"
                     alt="picture of Charlie riding across train tracks with Engineer Bob"
                     width="400"/>

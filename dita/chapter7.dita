@@ -7,6 +7,7 @@
         <section id="section_hrl_2vy_cdc">
             <title>Charlie's Back</title>
             <fig id="fig_ipq_35y_cdc">
+                <title>Children cheer as Charlie zips by</title>
                 <image href="images/pres-happy.jpg" id="image_oqg_j5y_cdc"
                     alt="picture of Charlie speeding down the tracks with children jumping and smiling next to him"
                     width="400"/>
@@ -26,6 +27,7 @@
         <section id="section_hwl_lvy_cdc">
             <title>Top Speed</title>
             <fig id="fig_yhb_mvy_cdc">
+                <title>Mr. Martin has a grand time riding Charlie</title>
                 <image href="images/pres-happy2.jpg" id="image_xy4_mvy_cdc"
                     alt="picture of Charlie, Engineer Bob, and Mr. Martin smiling as they ride"
                     width="400"/>
@@ -35,10 +37,10 @@
                 don't know why we ever retired it! How do you keep the coal conveyor loaded at this
                 speed?"</p>
             <p>Engineer Bob only smiled, because he knew <ph audience="children">Charlie was feeding
-                    himself</ph><ph audience="adults">how Charlie could go so fast</ph>. And,
-                beneath the <i>clickety-clack</i> and the <i>chuffa-chuffa</i> and the
-                    <i>brump-brump</i>, he could hear Charlie singing his old song in his low, gruff
-                voice:</p>
+                    himself</ph><ph audience="adults">the secret incrediant to make Charlie could go
+                    so fast</ph>. And, beneath the <i>clickety-clack</i> and the
+                    <i>chuffa-chuffa</i> and the <i>brump-brump</i>, he could hear Charlie singing
+                his old song in his low, gruff voice:</p>
             <p conref="reuse.dita#reuse/song1"/>
             <p conref="reuse.dita#reuse/song2"/>
             <p conref="reuse.dita#reuse/song3"/>

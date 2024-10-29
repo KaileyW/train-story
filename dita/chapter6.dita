@@ -2,12 +2,13 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_rxx_dkt_bdc">
     <title>Chapter 6</title>
-    <shortdesc>Mr. Martin needs to get somewhere quick but no trains are available, except for
+    <shortdesc>Mr. Martin needs to get somewhere quickly but no trains are available, except for
         Charlie. Mr. Martin gives Charlie a chance.</shortdesc>
     <body>
         <section id="section_tpl_4cy_cdc">
             <title>The President has a Problem</title>
             <fig id="fig_r44_scy_cdc">
+                <title>Something went wrong with the Zephyr</title>
                 <image href="images/pres-distress1.jpg" id="image_udc_tcy_cdc"
                     alt="picture of Mr. Martin standing outside the new train whose engineer, Mr. Martin, looks out worryingly"
                     width="400"/>
@@ -21,6 +22,7 @@
         <section id="section_h1h_rdy_cdc">
             <title>The Proposition</title>
             <fig id="fig_yxj_cdy_cdc">
+                <title>Engineer Bob offers Charlie's services</title>
                 <image href="images/pres-in-direstress2.jpg" id="image_mn3_ddy_cdc"
                     alt="picture of Mr. Martin and Engineer Bob talking with Charlie in the background"
                     width="400"/>
@@ -33,6 +35,7 @@
                 Topeka, Mr. Martin. Charlie will get you there in time for your daughter's piano
                 recital."</p>
             <fig id="fig_ezf_jty_cdc">
+                <title>Mr. Martin and Engineer Bob take Charlie for a ride</title>
                 <image href="images/pres-in-distress3.jpg" id="image_s1n_kty_cdc"
                     alt="picture of Mr. Martin and Engineer Bob riding in Charlie down the tracks"
                     width="400"/>

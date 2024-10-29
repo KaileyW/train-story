@@ -8,6 +8,9 @@
         <section id="section_a32_qls_cdc">
             <title>New Train in Town</title>
             <fig id="fig_yby_tls_cdc">
+                <title>The diesel <ph audience="children">train</ph><ph audience="adults"
+                        >locomotive</ph>
+                </title>
                 <image href="images/new-train1.jpg" id="image_ibt_5ls_cdc"
                     alt="picture of a shiny, modern red train" width="400"/>
             </fig>
@@ -15,9 +18,9 @@
                     audience="children">train</ph><ph audience="adults">locomotive</ph> in Charlie's
                 berth. And what a diesel <ph audience="children">train</ph><ph audience="adults"
                     >locomotive</ph> it was! Five thousand horsepower! Stainless steel <ph
-                    audience="children">connectors!</ph><ph audience="adults">couplers!</ph>
-                Traction motors from the Utica Engine Works in Utica, New York! And sitting on top,
-                behind the generator, were three bright yellow radiator cooling fans.</p>
+                    audience="children">connectors</ph><ph audience="adults">couplers</ph>! Traction
+                motors from the Utica Engine Works in Utica, New York! And sitting on top, behind
+                the generator, were three bright yellow radiator cooling fans.</p>
             <p>"What is this?" Engineer Bob asked in a worried voice, but Charlie only sang his song
                 in his smallest, gruffest voice:</p>
             <p conref="reuse.dita#reuse/song1"/>
@@ -29,6 +32,7 @@
         <section id="section_k4f_j4s_cdc">
             <title>Some Bad News</title>
             <fig id="fig_glh_44s_cdc">
+                <title>Mr. Briggs tells Engineer Bob the news</title>
                 <image href="images/new-train2.jpg" id="image_bpv_44s_cdc"
                     alt="picture of the new train in a berth behind Engineer Bob and Mr. Briggs"
                     width="400"/>
